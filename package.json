@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Sechko94.github.io/goit-js-hw-08",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Sechko94.github.io/goit-js-hw-08"
   },
   "keywords": [],
   "author": "Sergiy <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Sechko94.github.io/goit-js-hw-08"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
