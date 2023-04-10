@@ -22,7 +22,7 @@ reloadePage();
 // Функція onInputData викликається при введенні даних в форму та зберігає значення полів "email" та "message" в об'єкті dataForm. Дані зберігаються в localStorage за допомогою методу setItem.
 function onInputData(event) {
     dataForm = { email: email.value, message: message.value };
-    localStorage.setItem(LOCAL_KEY.JSON.stringify(dataForm))
+    localStorage.setItem(LOCAL_KEY, JSON.stringify(dataForm))
 }
 // Викликається функція reloadPage(), яка перезавантажує значення полів форми, якщо дані були збережені в localStorage.
 function reloadePage() {
